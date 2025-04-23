@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# other
+
+*/node_modules
+*/package-lock*.json
+package-lock.json
+*/.idea
